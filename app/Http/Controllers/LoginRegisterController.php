@@ -54,7 +54,6 @@ class LoginRegisterController extends Controller
         return redirect()->route('dashboard')
             ->withSuccess('You have successfully registered & logged in!');
     }
-
     /**
      * Display a login form.
      *
