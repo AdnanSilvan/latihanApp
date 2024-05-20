@@ -2,7 +2,6 @@
 <html lang="en">
 
 <head>
-
     <!-- basic -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -38,7 +37,6 @@
 </head>
 
 <body>
-
     <!-- header section start -->
     <div class="header_section">
         <div class="container-fluid">
